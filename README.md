@@ -1,6 +1,9 @@
 # accident-casualties-dashboard
 This Tableau dashboard offers an interactive visual analysis of UK road accident casualties (2019–2022) by trend in time, weather, location, and severity. Below is a summary of the intricate visualizations I created and analyzed:
 
+## Dashboard Preview
+![Dashboard Screenshot](dashboard-preview.png)
+
 ## Yearly Accident Trend – Bar Chart
 - Shows a year-to-year reduction in overall accidents: 115,942 in 2019 to 94,709 in 2022.
 - Indicates good road safety improvement, with an average annual drop of 6.51%.
